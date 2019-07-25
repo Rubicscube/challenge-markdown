@@ -31,4 +31,5 @@ and one day I managed to hit a car so the owner was so mad he was yelling at me 
 Stones and running.
 
 
-
+[<<previous](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md) || Badr Hjij ||
+[next>>](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md)
