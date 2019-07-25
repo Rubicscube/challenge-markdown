@@ -32,4 +32,4 @@ Stones and running.
 
 
 [<<previous](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md) || Badr Hjij ||
-[next>>](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md)
+[next>>](https://github.com/bona-kim/challenge-markdown/blob/master/bonakim.md)
