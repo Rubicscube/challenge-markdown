@@ -14,6 +14,20 @@
 			<a href="#"previous|| BADR || next
 
 
+<h2 align="left">Me as a summary</h2>
+
+
+<table>
+	<tr>
+
+		<th>Birthdate</th>
+		<th>Gender</>
+		<th>Favorite color<th>
+		<th>Favorite food<th>
+		<th>Favorite pizza</th>
+
+
+
 
 
 
